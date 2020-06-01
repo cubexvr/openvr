@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (driver_sample.vcxproj, motion_pose.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  motion_pose.cpp
+     Creating library C:\Users\Wolfgang\Documents\GitHub\openvr\samples\driver_sample\\bin\drivers\motion_pose\bin\win64\driver_motion_pose.lib and object C:\Users\Wolfgang\Documents\GitHub\openvr\samples\driver_sample\\bin\drivers\motion_pose\bin\win64\driver_motion_pose.exp
+  Generating code
+  6 of 153 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  motion_pose.vcxproj -> C:\Users\Wolfgang\Documents\GitHub\openvr\samples\driver_sample\\bin\drivers\motion_pose\bin\win64\driver_motion_pose.dll

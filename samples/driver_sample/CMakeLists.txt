@@ -1,9 +1,9 @@
-set(TARGET_NAME driver_sample)
+set(TARGET_NAME driver_motion_pose)
 
 add_library(${TARGET_NAME} SHARED
   driverlog.cpp
   driverlog.h
-  driver_sample.cpp
+  motion_pose.cpp
 )
 
 add_definitions(-DDRIVER_SAMPLE_EXPORTS)

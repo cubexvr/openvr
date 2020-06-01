@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (driver_sample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     Creating library C:\Users\Wolfgang\Documents\GitHub\openvr\samples\\bin\drivers\sample\bin\win64\motion_pose.lib and object C:\Users\Wolfgang\Documents\GitHub\openvr\samples\\bin\drivers\sample\bin\win64\motion_pose.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  driver_sample.vcxproj -> C:\Users\Wolfgang\Documents\GitHub\openvr\samples\\bin\drivers\sample\bin\win64\motion_pose.dll
